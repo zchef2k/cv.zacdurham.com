@@ -25,7 +25,7 @@ description              : "Static site for my cv and professional bio."
 author:
   name             : "Zac Durham"
   avatar           : "assets/img/avatar.png"
-  bio              : "Infrastructure Manager.<br />Cloud Architect."
+  bio              : "Infrastructure Manager<br />Cloud Architect"
   location         : "Greensboro, NC"
   email            :
   links:
