@@ -46,7 +46,7 @@ EXPERIENCE
     * Process point of sale transactions including repair orders and hardware upgrades
     * Configure and demonstrate devices for new product rollout
 
-**RECENT PROJECTS**
+**RECENT ACCOMPLISHMENTS**
 :   
 
     * Provided leadership for the selection and purchase of data center compute, storage, and backup solutions in two colocation facilities
