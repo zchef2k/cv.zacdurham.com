@@ -1,14 +1,56 @@
 ---
 type: page
-title: About Me
+title: ""
 ---
+EDUCATION
+---------
 
-Sometime in early 2008, I had an epiphany. The culinary career I had built over the previous twelve years had started to wear me down. I was exhausted. I opened two restaurants in three years and had been working eighty-hour work weeks for almost as long. I was newly married but rarely able to spend time with my wife. I missed family gatherings and never took vacations. The industry I had come to love was threatening to steal from me my happiness and my passion for food. I knew I needed to make a change if I was to have any chance at long-term emotional and financial security.
+**BS - INFORMATION SYSTEMS AND OPERATIONS MANAGEMENT**
+:   UNIVERSITY OF NORTH CAROLINA AT GREENSBORO
 
-My brothers and I didn't grow up around computers. Personal computing in the 1980's wasn't remotely in our household's budget. Our parents divorced when I was in middle school and both worked hard to make ends meet. It wasn't until the late 90's that I owned my first PC, an Apple PowerBook G3. When I wasn't working in the kitchen, I was likely on that laptop. I was fascinated by it. It was portable, sleek, had a beautiful display and could plug into cable internet. I was making up for lost time, learning everything I could about computers- how they worked and what they were capable of. The Digital Age was giving way to the Information Age. Many of my restaurant peers were going back to school and gaining skills needed to stake claim in the dot-com gold rush. My best prospects at the time were in the kitchen, but my exploration of this newfound technology offered a welcome escape from the stresses of the daily restaurant grind. I might have suspected this hobby would prove valuable one day, but I was focused on a different journey.
+EXPERIENCE
+----------
 
-For the next eight years or so, I cooked. I moved to Charleston, South Carolina and back and spent a couple years on North Carolina's Crystal Coast. I had the good fortune to work alongside very talented culinary professionals. I held every kitchen rank from dishwasher to Executive Chef. I've cooked dinners with nationally recognized culinary personalities. Hospitality can be immensely gratifying, and I had no shortage of gratifying experiences. But my enthusiasm for the industry began to fade and a professional kitchen is no place to be when that happens.
+**CLOUD INFRASTRUCTURE MANAGER, GLEN RAVEN, INC**
+:   APRIL 2017 – PRESENT
 
-In the summer of 2008, I made the decision. I turned in my toque for a graduation cap, needing only two years to complete an undergraduate degree. Since then I've forged a new career in information technology. Occasionally, people will ask me how one goes from cooking professionally to working in IT. I try my best to explain the two have more in common than most people realize. I work with a talented team of professionals who care about doing quality work. Like with high quality or exotic ingredients, the current state of IT provides no shortage of new and exciting tech to work with to deliver positive business outcomes. It all feels very familiar.
+    * Define cloud vision and facilitate adoption across functional areas
+    * Architect on-premises and cloud-based solutions to meet business needs
+    * Management of a team of data center, storage, and Linux administrators
 
-So these days I mostly cook and I play with technology. Not much has changed other than the terms by which I do both. My passion for food, cooking, and hospitality is very much intact. I have more time to spend with family and to travel. Time permitting, I might hit the links and lose a few golf balls. Or, I might set out on the water and lose some tackle. Either way, I shouldn't complain.
+**LINUX SYSTEM ADMINISTRATOR, GLEN RAVEN, INC**
+:   OCTOBER 2013 – APRIL 2017
+
+    * Deploy and maintain vCenter environments across multiple data centers
+    * Manage lifecycle of the Linux environment supporting numerous enterprise applications
+    * Maintain infrastructure components including SAN/NAS, LDAP, and DNS
+
+**SYSTEM ANALYST, KAYSER-ROTH CORPORATION**
+:   OCTOBER 2010 – OCTOBER 2013
+
+    * Maintain business automation across mainframe, Windows, and Linux environments
+    * Develop reports for business users in multiple departments
+    * Provide support for Oracle-based back office and plant floor applications
+
+**IT SUPPORT AGENT, UNIVERSITY OF NORTH CAROLINA AT GREENSBORO**
+:   NOVEMBER 2008 – OCTOBER 2010, DEPARTMENT OF HOUSING AND RESIDENT LIFE
+
+    * Respond to immediate computing and networking needs of department staff
+    * Image and network department computers in compliance with university standards
+    * Regularly update department web content
+
+**SPECIALIST, APPLE STORE AT FRIENDLY CENTER**
+:   MARCH 2009 – NOVEMBER 2009
+
+    * Engage customers to match needs with hardware and software solutions
+    * Process point of sale transactions including repair orders and hardware upgrades
+    * Configure and demonstrate devices for new product rollout
+
+**RECENT PROJECTS**
+:   
+
+    * Provided leadership for the selection and purchase of data center compute, storage, and backup solutions in two colocation facilities
+    * Established tenancy, governance, and management within Microsoft Azure to deliver quality cloud-based solutions to multiple business units
+    * Facilitated the construction of an enterprise-grade data gathering and reporting platform within Microsoft Azure 
+    * Migrated over 50 web applications from Rackspace to Microsoft Azure
+    *Implemented Azure Front Door and Palo Alto firewalls to establish a standard, secure, multi-geographic solution for all inbound cloud application traffic

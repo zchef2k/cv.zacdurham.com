@@ -15,32 +15,29 @@ remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bio.zacdurham.com"
+title                    : "cv.zacdurham.com"
 title_separator          : "-"
 subtitle                 : ""
 #name                     : "Zac Durham"
-description              : "Personal page dedicated to introducing myself, a former chef turned IT professional, and what I'm about."
+description              : "Static site for my cv and professional bio."
 
 # Site Author
 author:
   name             : "Zac Durham"
   avatar           : "assets/img/avatar.png"
-  bio              : "Former chef turned IT professional.<br /> Husband, son, brother. <br /> Terrible golfer and angler."
+  bio              : "Infrastructure Manager.<br />Cloud Architect."
   location         : "Greensboro, NC"
   email            :
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/zchef2k/"
-    - label: "Blog"
-      icon: "fas fa-fw fa-link"
-      url: "https://blog.zacdurham.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zacdurham/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zchef2k"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-download"
+      url: "assets/pdf/cv.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zacdurham@gmail.com"
