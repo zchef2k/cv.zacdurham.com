@@ -20,8 +20,9 @@ title_separator          : "-"
 subtitle                 : ""
 #name                     : "Zac Durham"
 description              : "Static site for my cv and professional bio."
-analytics.provider       : "google-gtag"
-analytics.google.tracking_id : "G-R5W14YRNJH"
+analytics:
+  provider       : "google-gtag"
+  tracking_id    : "G-R5W14YRNJH"
 
 # Site Author
 author:
