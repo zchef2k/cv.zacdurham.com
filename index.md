@@ -52,5 +52,4 @@ EXPERIENCE
     * Provided leadership for the selection and purchase of data center compute, storage, and backup solutions in two colocation facilities
     * Established tenancy, governance, and management within Microsoft Azure to deliver quality cloud-based solutions to multiple business units
     * Facilitated the construction of an enterprise-grade data gathering and reporting platform within Microsoft Azure 
-    * Migrated over 50 web applications from Rackspace to Microsoft Azure
-    *Implemented Azure Front Door and Palo Alto firewalls to establish a standard, secure, multi-geographic solution for all inbound cloud application traffic
+    * Implemented Azure Front Door and Palo Alto firewalls to establish a standard, secure, multi-geographic solution for all inbound application traffic
