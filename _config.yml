@@ -22,7 +22,8 @@ subtitle                 : ""
 description              : "Static site for my cv and professional bio."
 analytics:
   provider       : "google-gtag"
-  tracking_id    : "G-R5W14YRNJH"
+  google:
+    tracking_id    : "G-R5W14YRNJH"
 
 # Site Author
 author:
