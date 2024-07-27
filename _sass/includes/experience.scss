@@ -1,4 +1,4 @@
-.experiance {
+.experience {
     .title {
         @include header;
     }
@@ -18,7 +18,7 @@
         .details {
             @include body-text;
         }
-        .responsibilities {
+        ul.responsibilities {
             @include body-text;
         }
     }
