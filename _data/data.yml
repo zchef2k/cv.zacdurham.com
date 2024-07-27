@@ -1,13 +1,13 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: Zachary C. Durham
+support_dark_mode: false
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: zacdurham@gmail.com
+  phone: 336.365.6794
+  github: zchef2k
+  linkedin: zacdurham
   gitlab: 
   twitter: 
 
@@ -16,93 +16,104 @@ languages:
   - idiom: Russian
   - idiom: French
 
-education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
 skills:
-  - category: Backend
+  - category: Infrastructure
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
+      - Nutanix HCI/AHV
+      - Cisco UCS
+      - VMware vSphere
+      - NetApp ONTAP
+      - Rubrik
+  - category: Cloud
+    skill: 
+      - Microsoft Azure
+      - Amazon Web Services
+      - Oracle OCI
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - Ansible
+      - Kubernetes
+      - Github
+      - Azure DevOps
+      - Jira
+  - category: Observability
+    skill:
+      - Splunk IM/APM/Core
+      - OpenTelemetry
+      - Grafana
+      - Prometheus
+  - category: Professional
+    skill:
+      - IT Strategy
+      - Cross-functional Leadership
+      - Change Agency
+      - Vendor Management, RFP/RFQ
+      - Contract Negotiation
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Trusted IT leader with over 12 years experience in infrastructure design and management, enterprise automation, and business system analysis. Focused on initiatives that promote efficiency, scalability, and resilience in increasingly complex environments.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Director of Platform Engineering
+    time: August 2023 - Present
+    company: Glen Raven, Inc.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Instrumental in defining IT strategy that meets diverse business initiatives and requirements, particularly in support of technical application delivery, development, and database administration teams.
+    responsibilities:
+      - Design, implement, and maintain datacenter and cloud platforms
+      - Optimize hybrid cloud strategy for operability and cost
+      - Advance automation, observability, and security initiatives across IT
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Cloud Infrastructure Manager
+    time: April 2017 - August 2023
+    company: Glen Raven, Inc.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Accelerate cloud adoption and innovation across new and strategic use cases, most notably through the construction of a modern enterprise data platform. Eliminate sprawl from early cloud adoption for better security, cost, and performance.
+    responsibilities:
+      - Execute datacenter refreshes from RFP to implementation
+      - Promote DevOps methodologies to better support application delivery teams
+      - Manage a team of datacenter, storage, and Linux professionals
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - role: Linux Systems Administrator
+    time: October 2013 - April 2017
+    company: Glen Raven, Inc.
+    details:
+    responsibilities:
+      - Manage lifecycle of Linux system supporting critical enterprise applications
+      - Deploy and maintain virtualization and storage infrastructure in multiple datacenters
+      - Participate in regular testing of disaster recovery infrastructure and processes
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - role: Systems Analyst
+    time: October 2010 - October 2013
+    company: Kayser-Roth Corporation
+    details:
+    responsibilities:
+      - Develop and maintain business systems and applications
+      - Support and maintain enterprise applications
+      - Participate in regular testing of disaster recovery infrastructure and processes
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+education:
+  - degree: Bachelor of Science, Information Systems and Operations Management
+    time: 2010
+    university: University of North Carolina at Greensboro
+    school: Bryan School of Business and Economics
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+# publications:
+#   - title:
+#     link:
+#     authors:
+#     conference:
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# projects:
+#   - title:
+#     link:
+#     details:
+
+# # Volunteering
+# volunteering:
+#   - time:
+#     role:
+#     company:
+#     details:
