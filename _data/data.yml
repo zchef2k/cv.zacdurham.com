@@ -5,7 +5,7 @@ fork: false
 # Sidebar
 contact:
   email: zacdurham@gmail.com
-  phone: 336.365.6794
+  phone: ‪336.298.6774
   github: zchef2k
   linkedin: zacdurham
   gitlab: 
@@ -81,7 +81,7 @@ experience:
     company: Glen Raven, Inc.
     details:
     responsibilities:
-      - Manage lifecycle of Linux system supporting critical enterprise applications
+      - Manage lifecycle of Linux systems supporting critical enterprise applications
       - Deploy and maintain virtualization and storage infrastructure in multiple datacenters
       - Participate in regular testing of disaster recovery infrastructure and processes
 
